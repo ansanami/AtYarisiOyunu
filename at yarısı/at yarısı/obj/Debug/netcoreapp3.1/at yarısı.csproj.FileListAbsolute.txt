@@ -1,0 +1,16 @@
+C:\Users\EMİR\Source\Repos\at yarısı\at yarısı\bin\Debug\netcoreapp3.1\at yarısı.exe
+C:\Users\EMİR\Source\Repos\at yarısı\at yarısı\bin\Debug\netcoreapp3.1\at yarısı.deps.json
+C:\Users\EMİR\Source\Repos\at yarısı\at yarısı\bin\Debug\netcoreapp3.1\at yarısı.runtimeconfig.json
+C:\Users\EMİR\Source\Repos\at yarısı\at yarısı\bin\Debug\netcoreapp3.1\at yarısı.runtimeconfig.dev.json
+C:\Users\EMİR\Source\Repos\at yarısı\at yarısı\bin\Debug\netcoreapp3.1\at yarısı.dll
+C:\Users\EMİR\Source\Repos\at yarısı\at yarısı\bin\Debug\netcoreapp3.1\at yarısı.pdb
+C:\Users\EMİR\Source\Repos\at yarısı\at yarısı\obj\Debug\netcoreapp3.1\at yarısı.csproj.AssemblyReference.cache
+C:\Users\EMİR\Source\Repos\at yarısı\at yarısı\obj\Debug\netcoreapp3.1\at_yarısı.Form1.resources
+C:\Users\EMİR\Source\Repos\at yarısı\at yarısı\obj\Debug\netcoreapp3.1\at_yarısı.Properties.Resources.resources
+C:\Users\EMİR\Source\Repos\at yarısı\at yarısı\obj\Debug\netcoreapp3.1\at yarısı.csproj.GenerateResource.cache
+C:\Users\EMİR\Source\Repos\at yarısı\at yarısı\obj\Debug\netcoreapp3.1\at yarısı.AssemblyInfoInputs.cache
+C:\Users\EMİR\Source\Repos\at yarısı\at yarısı\obj\Debug\netcoreapp3.1\at yarısı.AssemblyInfo.cs
+C:\Users\EMİR\Source\Repos\at yarısı\at yarısı\obj\Debug\netcoreapp3.1\at yarısı.csproj.CoreCompileInputs.cache
+C:\Users\EMİR\Source\Repos\at yarısı\at yarısı\obj\Debug\netcoreapp3.1\at yarısı.dll
+C:\Users\EMİR\Source\Repos\at yarısı\at yarısı\obj\Debug\netcoreapp3.1\at yarısı.pdb
+C:\Users\EMİR\Source\Repos\at yarısı\at yarısı\obj\Debug\netcoreapp3.1\at yarısı.genruntimeconfig.cache
